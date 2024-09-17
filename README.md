@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @maznnwell
+- 👀 I’m interested in Flutter development and cryptocurrencies
+- 🌱 I’m currently learning about Ethereum, Bitcoin and Zenon crypto ecosystems
+- 💞️ I’m looking to collaborate on Flutter and crypto projects
+- ⚡ Fun fact: I'm trying to run my first 2k
